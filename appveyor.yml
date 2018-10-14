@@ -4,19 +4,19 @@ environment:
   # node.js
   - nodejs_version: "6"
 
-  # Install scripts. (runs after repo closing)
-  install:
-    # Get the latest stable version of Node.js or io.js
-    - ps: Install-Product node $env:nodejs_version
-    # install modules
-    - npm install
+# Install scripts. (runs after repo closing)
+install:
+  # Get the latest stable version of Node.js or io.js
+  - ps: Install-Product node $env:nodejs_version
+  # install modules
+  - npm install
 
-  # Post-install test scripts.global:
-  test_script:
-    # Output useful info for debugging.global:
-    - node --version
-    - npm -- version
-    # run tests
-    - npm test
+# Post-install test scripts.global:
+test_script:
+  # Output useful info for debugging.global:
+  - node --version
+  - npm -- version
+  # run tests
+  - npm test
 
-  # don't actually build
+# don't actually build
