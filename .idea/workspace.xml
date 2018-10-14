@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b496edb-6556-445d-9fdb-1c69574dfdbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildScripts/testSetup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -52,7 +47,7 @@
           <entry key="babelrc" value="22" />
           <entry key="css" value="61" />
           <entry key="editorconfig" value="218" />
-          <entry key="html" value="38" />
+          <entry key="html" value="39" />
           <entry key="js" value="1730" />
           <entry key="json" value="511" />
           <entry key="txt" value="15" />
@@ -62,7 +57,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="61" />
-          <entry key="HTML" value="38" />
+          <entry key="HTML" value="39" />
           <entry key="JSON" value="533" />
           <entry key="JavaScript" value="1730" />
           <entry key="PLAIN_TEXT" value="233" />
@@ -166,8 +161,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="136">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -200,8 +195,8 @@
         <option value="$PROJECT_DIR$/src/index.test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/buildScripts/srcServer.js" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
@@ -296,7 +291,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539471999798</updated>
-      <workItem from="1539472000944" duration="6140000" />
+      <workItem from="1539472000944" duration="6580000" />
     </task>
     <task id="LOCAL-00001" summary="linting done">
       <created>1539478902021</created>
@@ -316,7 +311,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6140000" />
+    <option name="totallyTimeSpent" value="6580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -447,8 +442,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
