@@ -14,6 +14,6 @@ environment:
   # Post-install test scripts.global:
   test_script:
     # Output useful info for debugging.global:
-  -- node --version
-  -- npm -- version
+  - node --version
+  - npm -- version
 
